@@ -3,9 +3,9 @@
 
 My first repository on Github
 
-Deep Learnning program (python)
+Deep Learning program (python)
 
 using Keras v2.2.4
 
-dateset CIFAR10 (image 32 x 32 x 3)
+dataset CIFAR10 (image 32 x 32 x 3)
 
